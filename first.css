@@ -1,3 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 hr {
     opacity: unset;
 }
@@ -45,7 +48,12 @@ svg{
     margin-right: 50px;
 
 }
+.nav-link:hover{
+    color: #ff4e00;
+}
+
 #disabl{
+    color: rgba(255, 78, 0, 0.9);
     margin-right: 0px;
 }
 
